@@ -4,8 +4,6 @@
     {
         public static void Run()
         {
-            // Pause til 11:07
-
             Console.WriteLine(FormatCity("Stavern"));
             Console.WriteLine(FormatCity("Oslo"));
             Console.WriteLine(FormatCity("Larvik"));
