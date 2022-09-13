@@ -4,6 +4,15 @@
     {
         public static void Run()
         {
+            /*
+             *
+             * Operatorer:
+             *  - aritmetiske operatorer: +, -, *, /
+             *  - tilordningsoperator: =, +=, -=, *=, /=, ++, --
+             *  - sammenligningsoperatorer: <, >, ==, !=, <=, >=
+             *  - logiske operatorer: !, &&, ||
+             */
+
             var perPaid = 300;
             var pålPaid = 3000;
             var espenPaid = 0;
